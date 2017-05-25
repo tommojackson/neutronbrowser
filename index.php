@@ -68,6 +68,34 @@
 
 			</div>
 
+            <div class="undeuxtrois">
+
+                <div class="un">
+
+                    <img src="/icons/un.png">
+
+                    <span>Your searches online will not be tracked by big companies or search engines.</span>
+
+                </div>
+
+                <div class="deux">
+
+                    <img src="/icons/deux.png">
+
+                    <span>Neutron Browser is totally free, we believe you shouldn't have to pay for privacy.</span>
+
+                </div>
+
+                <div class="trois">
+
+                    <img src="/icons/trois.png">
+
+                    <span>Search results are from Google and Yahoo so you get a great browsing experience.</span>
+
+                </div>
+
+            </div>
+
 		</div>
 
 	</body>
