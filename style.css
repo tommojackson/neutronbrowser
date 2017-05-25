@@ -221,6 +221,22 @@ h2 {
 
 }
 
+.lpHeader {
+
+    width: 100%;
+    height: 80px;
+    background-color: #fefefe;
+    border-bottom: 1px solid #dedede;
+    padding-top: 20px;
+
+}
+
+.lpMiddle {
+
+    width: 100%;
+
+}
+
 /* MOBILE ADJUSTMENTS */
 
 @media ( max-width: 750px ) {
