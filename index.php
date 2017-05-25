@@ -61,10 +61,10 @@
 
 		<div class="middleContent">
 
-			<div class="h2Box" style="margin-bottom: 200px;">
+			<div class="h2Box">
 
-				<h2>H2 Placeholder</h2>
-				<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet ligula ac magna malesuada dignissim.</span>
+				<h2>The Most Secure Browser Around.</h2>
+				<span>It has never been more important to protect yourself online. Here's why [NAME] is a necessity when browsing online...</span>
 
 			</div>
 
@@ -74,7 +74,7 @@
 
                     <img src="/images/un.png">
 
-                    <span>Your searches online will not be tracked by big companies or search engines.</span>
+                    <span>Your activity online will not be tracked by big companies or search engines.</span>
 
                 </div>
 
@@ -82,7 +82,7 @@
 
                     <img src="/images/deux.png">
 
-                    <span>Neutron Browser is totally free, we believe you shouldn't have to pay for privacy.</span>
+                    <span>[NAME] Browser is totally free, we believe you shouldn't have to pay for privacy.</span>
 
                 </div>
 
@@ -90,7 +90,7 @@
 
                     <img src="/images/trois.png">
 
-                    <span>Search results are from Google and Yahoo so you get a great browsing experience.</span>
+                    <span>You get a perfect browsing experience - you won't even notice the difference.</span>
 
                 </div>
 
