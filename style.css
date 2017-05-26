@@ -246,7 +246,7 @@ h2 {
 .lpMiddle {
 
     width: 90%;
-    margin: 20px auto;
+    margin: 40px auto;
     text-align: center;
 
 }
@@ -280,7 +280,6 @@ h2 {
 
     text-align: left;
     padding: 10px 0 10px 30px;
-    font-weight: bold;
 
 }
 
@@ -321,6 +320,37 @@ h2 {
     margin-left: 40px;
     margin-top: 5px;
     float: left;
+
+}
+
+.lpButtonDisc {
+
+    width: 420px;
+    margin: 20px 0;
+    font-size: 12px;
+
+}
+
+.lpButtonDisc a {
+
+    color: #0b192b;
+
+}
+
+.lpDlInfo {
+
+    width: 420px;
+    background: lightgray;
+    border: grey 2px solid;
+    text-align: left;
+    padding: 20px;
+    padding-right: 0;
+
+}
+
+.lpDlInfo strong {
+
+    margin-right: 10px;
 
 }
 

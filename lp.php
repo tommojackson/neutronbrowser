@@ -39,9 +39,9 @@
 
                     <ul class="lpSteps">
 
-                        <li>1. Click Download</li>
-                        <li>2. Start Install</li>
-                        <li>3. Begin Browsing Privately</li>
+                        <li style="font-weight: bold;">Click Button</li>
+                        <li>Start Install</li>
+                        <li>Begin Browsing Privately</li>
 
                     </ul>
 
@@ -70,7 +70,9 @@
 
                     <div class="lpDlInfo">
 
-                        <span>Install Time: Approx. 20 Seconds</span>
+                        <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
+                        <span><strong>Compatible OS:</strong> Apple Mac OS</span>
+                        <span><strong>Language:</strong> English</span>
 
                     </div>
 
