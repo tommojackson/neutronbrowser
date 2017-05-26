@@ -744,10 +744,26 @@ h2 {
     color: black;
     font-weight: 100;
     overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 
+.lp2BottomWindowsCompat {
 
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.lp2BottomInfo {
+
+    text-align: right;
+    float: left;
+    margin-top: 36px;
+
+}
 
 /* MOBILE ADJUSTMENTS */
 

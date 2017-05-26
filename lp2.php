@@ -151,14 +151,28 @@
 
         <div class="lp2StripText">
 
-            <h2 style="margin-top: 0; margin-bottom: 0;">WITHOUT INCOGNITO BROWSER <span>YOUR ONLINE ACTIVITY</span></h2>
-            <h2 style="margin-top: -26px; margin-bottom: 0;">CAN BE <span>TRACKED BY BIG COMPANIES</span></h2>
+            <h2 style="margin-top: 0; margin-bottom: 0; margin-right: 22px; text-align: right;">WITHOUT INCOGNITO BROWSER <span>YOUR ONLINE ACTIVITY</span></h2>
+            <h2 style="margin-top: -26px; margin-bottom: 0; margin-right: 22px; text-align: right;">CAN BE <span>TRACKED BY BIG COMPANIES</span></h2>
 
         </div>
 
         <div class="lp2BottomDownload">
 
-            <div class="lp2Button">
+            <div class="lp2BottomWindowsCompat">
+
+                <img src="/images/windowscompat.png">
+
+            </div>
+
+            <div class="lp2BottomInfo">
+
+                <span style="display: block"><strong>Install Time:</strong> Approx. 20 Seconds</span>
+                <span style="padding: 10px 0; display: block;"><strong>Compatible OS:</strong> Apple Mac OS</span>
+                <span><strong>Language:</strong> English</span>
+
+            </div>
+
+            <div class="lp2Button" style="width: 400px; float: right; margin-top: 30px; margin-right: 50px;">
 
                 <div class="lp2ButtonText">
 
@@ -167,20 +181,6 @@
                     FREE INSTALL
 
                 </div>
-
-            </div>
-
-            <div class="lp2BottomInfo">
-
-                <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
-                <span style="padding: 10px 0;"><strong>Compatible OS:</strong> Apple Mac OS</span>
-                <span><strong>Language:</strong> English</span>
-
-            </div>
-
-            <div class="lp2BottomWindowsCompat">
-
-                <img src="/images/windowscompat.png">
 
             </div>
 
