@@ -144,11 +144,11 @@
 
                 <div class="lpFeatureTop">
 
-                    <img src="/images/deux.png">
+                    <img style="float: left; width: 12%; margin: 0;" src="/images/deux.png">
 
-                    <div class="lpFeatureTopRight">
+                    <div class="lpFeatureTopRight" style="float: right;">
 
-                        <h2>FREE For Life</h2>
+                        <h2 style="margin: 0; font-size: 30px;">FREE For Life</h2>
                         <span>Lorum Ipsum Dolor Sit Amet...</span>
 
                     </div>
@@ -157,9 +157,9 @@
 
                 <div class="lpFeatureButtonBox">
 
-                    <div class="lpFeatureButton">FREE DOWNLOAD</div>
+                    <div class="lpFeatureButton" style="float: right;">FREE DOWNLOAD</div>
 
-                    <div class="lpFeatureSpan">
+                    <div class="lpFeatureSpan" style="float: left;">
 
                         <span>By clicking the button above and installing Incognito Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
@@ -181,7 +181,7 @@
 
                     </div>
 
-                    <img src="/images/trois.png">
+                    <img src="/images/trois.png" style="width: 10%; margin: 20px;">
 
                 </div>
 
