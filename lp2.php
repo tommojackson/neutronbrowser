@@ -90,6 +90,12 @@
 
         </div>
 
+        <div class="lp2StripText">
+
+            <h2>INSTALL INCOGNITO BROWSER TO KEEP <span>YOUR SEARCHES PRIVATE</span> AND <span>YOUR BROWSING SECURE</span></h2>
+
+        </div>
+
     </body>
 
 </html>
