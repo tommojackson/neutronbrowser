@@ -79,28 +79,28 @@
 
                 </div>
 
-                <div class="features">
+            </div>
 
-                    <div class="featureBox">
+            <div class="features">
 
-                        <img src="/images/un.png">
-                        <span>Stop Them Tracking</span>
+                <div class="featureBox">
 
-                    </div>
+                    <img src="/images/un.png">
+                    <span>Stop Companies Tracking</span>
 
-                    <div class="featureBox">
+                </div>
 
-                        <img src="/images/deux.png">
-                        <span>FREE For Life</span>
+                <div class="featureBox">
 
-                    </div>
+                    <img src="/images/deux.png">
+                    <span>FREE For Life</span>
 
-                    <div class="featureBox">
+                </div>
 
-                        <img src="/images/trois.png">
-                        <span>Chrome Browsing Experience</span>
+                <div class="featureBox">
 
-                    </div>
+                    <img src="/images/trois.png">
+                    <span>Chrome Browsing Experience</span>
 
                 </div>
 
