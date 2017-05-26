@@ -416,7 +416,8 @@ h2 {
 .lpFeature {
 
     background-color: white;
-    margin: 0 auto;
+    margin: 50px auto;
+    overflow: hidden;
     width: 90%;
     max-width: 960px;
     padding: 20px 50px;
