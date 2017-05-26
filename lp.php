@@ -11,17 +11,17 @@
 
     </head>
 
-    <body>
+    <body style="color: #0b192b;">
 
         <div class="lpHeader">
 
-            <div style="float: left;">
+            <div style="float: left; margin-left: 10%;">
 
                 <span class="lpSiteName">Incognito Browser</span>
 
             </div>
 
-            <div style="float: right;">
+            <div style="float: right; margin-right: 10%; margin-top: 10px;">
 
                 <span class="lpSiteDesc">The Most Secure Browser Around.</span>
 

@@ -227,13 +227,35 @@ h2 {
     height: 80px;
     background-color: #fefefe;
     border-bottom: 1px solid #dedede;
-    padding-top: 20px;
+    padding-top: 27px;
+
+}
+
+.lpSiteName {
+
+    font-size: 30px;
+
+}
+
+.lpSiteDesc {
+
+    font-size: 20px;
 
 }
 
 .lpMiddle {
 
-    width: 100%;
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+
+}
+
+.lpCenterTitle {
+
+    font-size: 35px;
+    font-weight: 100;
+    letter-spacing: 2px;
 
 }
 
