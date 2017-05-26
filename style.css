@@ -477,6 +477,112 @@ h2 {
 
 }
 
+.lp2Body {
+
+    background: #dbdddc;
+
+}
+
+.lp2Header {
+
+    height: 48px;
+    background: #128de2;
+    box-shadow: 0 1px 4px rgba(0,0,0,.14);
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+
+}
+
+.lp2TopText {
+
+    width: 980px;
+    display: block;
+    margin: 48px auto 0;
+    height: 53px;
+    background-color: #f4f4f4;
+
+}
+
+.lp2TopText h2 {
+
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: "OpenSans-CondLight",sans-serif;
+    color: #38383b;
+    line-height: 53px;
+    margin-left: 22px;
+
+}
+
+.lp2TopText h2 span {
+
+    color: #75b220;
+
+}
+
+.lp2Download {
+
+    height: 292px;
+    display: block;
+    margin: 0 auto;
+    background-color: #fff;
+    width: 980px;
+
+}
+
+.lp2Button {
+
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    width: 420px;
+    height: 80px;
+    background: linear-gradient(to bottom,#82c11f 0,#62a804 100%);
+    box-shadow: 0 4px 4px rgba(125,125,125,.34);
+    padding-top: 30px;
+    transition: background .2s linear;
+    border-radius: 10px;
+
+}
+
+.lp2ButtonText {
+
+    display: inline;
+    color: #fff;
+    margin-left: -25px;
+    font-size: 33px;
+
+}
+
+.lp2ButtonText img {
+
+    width: 35px;
+    margin-left: 40px;
+    margin-top: 5px;
+    float: left;
+
+}
+
+.lp2Review {
+
+    height: 214px;
+    width: 246px;
+    background-color: #fafafa;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-top: 2px solid #b8d880;
+    padding: 24px 0 0 27px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: "Open sans",sans-serif;
+    color: #7f8386;
+
+}
+
 /* MOBILE ADJUSTMENTS */
 
 @media ( max-width: 750px ) {
