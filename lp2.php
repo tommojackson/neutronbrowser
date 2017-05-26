@@ -107,7 +107,7 @@
 
                 </div>
 
-                <div class="lp2TickBoxText">Text 1</div>
+                <div class="lp2TickBoxText">Clean, uninterrupted ad-free experience</div>
 
             </div>
 
@@ -119,7 +119,7 @@
 
                 </div>
 
-                <div class="lp2TickBoxText">Text 2</div>
+                <div class="lp2TickBoxText">Stops big companies tracking you online</div>
 
             </div>
 
@@ -131,7 +131,7 @@
 
                 </div>
 
-                <div class="lp2TickBoxText">Text 2</div>
+                <div class="lp2TickBoxText">Clear your browsing and cookie history in an instant</div>
 
             </div>
 
@@ -143,7 +143,7 @@
 
                 </div>
 
-                <div class="lp2TickBoxText">Text 2</div>
+                <div class="lp2TickBoxText">Encrypted browser communication for your safety</div>
 
             </div>
 
@@ -151,8 +151,8 @@
 
         <div class="lp2StripText">
 
-            <h2 style="margin-top: 0; margin-bottom: 0;">WITHOUT INCOGNITO BROWSER <span>YOUR ONLINE</span></h2>
-            <h2 style="margin-top: -26px; margin-bottom: 0;"><span>ACTIVITY</span> CAN BE <span>TRACKED BY BIG COMPANIES</span></h2>
+            <h2 style="margin-top: 0; margin-bottom: 0;">WITHOUT INCOGNITO BROWSER <span>YOUR ONLINE ACTIVITY</span></h2>
+            <h2 style="margin-top: -26px; margin-bottom: 0;">CAN BE <span>TRACKED BY BIG COMPANIES</span></h2>
 
         </div>
 
