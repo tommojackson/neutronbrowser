@@ -39,7 +39,7 @@
 
                     <ul class="lpSteps">
 
-                        <li style="font-weight: bold; font-size: 40px;">Click Button</li>
+                        <li style="font-weight: bold; font-size: 40px; padding-top: 0;">Click Button</li>
                         <img src="/images/chalkarrow.png" style="width: 60px; position: absolute; transform: rotate(-45deg) translate(160px,65px);">
                         <li>Start Install</li>
                         <li>Begin Browsing Privately</li>
@@ -69,13 +69,13 @@
 
                     </div>
 
-                    <div class="lpDlInfo">
+                </div>
 
-                        <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
-                        <span style="padding: 10px 0;"><strong>Compatible OS:</strong> Apple Mac OS</span>
-                        <span><strong>Language:</strong> English</span>
+                <div class="lpDlInfo">
 
-                    </div>
+                    <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
+                    <span style="padding: 10px 0;"><strong>Compatible OS:</strong> Apple Mac OS</span>
+                    <span><strong>Language:</strong> English</span>
 
                 </div>
 
@@ -101,6 +101,100 @@
 
                     <img src="/images/trois.png">
                     <span>Chrome Browsing Experience</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="lpBottom">
+
+            <div class="lpFeature">
+
+                <div class="lpFeatureTop">
+
+                    <div class="lpFeatureTopLeft">
+
+                        <h2>Stop Companies Tracking</h2>
+                        <span>Lorum Ipsum Dolor Sit Amet...</span>
+
+                    </div>
+
+                    <img src="/images/un.png">
+
+                </div>
+
+                <div class="lpFeatureButtonBox">
+
+                    <div class="lpFeatureButton">FREE DOWNLOAD</div>
+
+                    <div class="lpFeatureSpan">
+
+                        <span>By clicking the button above and installing Incognito Browser,
+                            I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="lpFeature">
+
+                <div class="lpFeatureTop">
+
+                    <img src="/images/deux.png">
+
+                    <div class="lpFeatureTopRight">
+
+                        <h2>FREE For Life</h2>
+                        <span>Lorum Ipsum Dolor Sit Amet...</span>
+
+                    </div>
+
+                </div>
+
+                <div class="lpFeatureButtonBox">
+
+                    <div class="lpFeatureButton">FREE DOWNLOAD</div>
+
+                    <div class="lpFeatureSpan">
+
+                        <span>By clicking the button above and installing Incognito Browser,
+                            I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="lpFeature">
+
+                <div class="lpFeatureTop">
+
+                    <div class="lpFeatureTopLeft">
+
+                        <h2>Chrome Browsing Experience</h2>
+                        <span>Lorum Ipsum Dolor Sit Amet...</span>
+
+                    </div>
+
+                    <img src="/images/trois.png">
+
+                </div>
+
+                <div class="lpFeatureButtonBox">
+
+                    <div class="lpFeatureButton">FREE DOWNLOAD</div>
+
+                    <div class="lpFeatureSpan">
+
+                        <span>By clicking the button above and installing Incognito Browser,
+                            I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
+
+                    </div>
 
                 </div>
 

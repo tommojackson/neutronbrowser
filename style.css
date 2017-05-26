@@ -246,14 +246,16 @@ h2 {
 .lpMiddle {
 
     width: 90%;
-    margin: 40px auto;
+    margin: 60px auto;
     text-align: center;
+    overflow: hidden;
 
 }
 
 .lpDownloadBox {
 
-    margin-top: 40px;
+    margin-top: 60px;
+    overflow: hidden;
 
 }
 
@@ -277,7 +279,7 @@ h2 {
     list-style-type: decimal;
     margin: 0;
     float: right;
-    margin-right: 100px;
+    margin-right: 120px;
     font-size: 25px;
 
 }
@@ -351,6 +353,8 @@ h2 {
     text-align: left;
     padding: 20px;
     padding-right: 0;
+    display: inline-block;
+    margin-top: 30px;
 
 }
 
@@ -369,7 +373,8 @@ h2 {
 .features {
 
     width: 960px;
-    margin: 50px auto;
+    margin: 30px auto;
+    overflow: hidden;
 
 }
 
@@ -384,16 +389,32 @@ h2 {
 
     display: block;
     height: 70px;
-    margin: 30px auto 70px;
+    margin: 30px auto 30px;
 
 }
 
 .featureBox span {
 
     display: block;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
     color: #484849;
+
+}
+
+.lpBottom {
+
+    background-image: url(/images/shadow.png);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    width: 100%;
+    background-color: #eee;
+
+}
+
+.lpFeature {
+
+    background-color: white;
 
 }
 
