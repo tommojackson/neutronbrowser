@@ -409,12 +409,69 @@ h2 {
     background-position: 50% 0;
     width: 100%;
     background-color: #eee;
+    padding-top: 100px;
 
 }
 
 .lpFeature {
 
     background-color: white;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 960px;
+    padding: 20px 50px;
+
+}
+
+.lpFeatureTop {
+
+    overflow: hidden;
+
+}
+
+.lpFeatureTop img {
+
+    width: 18%;
+    float: right;
+    margin: -25px 0px;
+
+}
+
+.lpFeatureTopLeft {
+
+    float: left;
+
+}
+
+.lpFeatureTopLeft h2 {
+
+    margin: 0;
+    font-size: 30px;
+
+}
+
+.lpFeatureButton {
+
+    float: left;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    width: 40%;
+    height: 60px;
+    background: linear-gradient(to bottom,#ffc107 0,#ff9800 100%);
+    border-color: #E65100;
+    padding-top: 10px;
+    transition: background .2s linear;
+    border-radius: 20px;
+
+}
+
+.lpFeatureSpan {
+
+    float: right;
+    width: 50%;
+    margin-top: 15px;
 
 }
 
