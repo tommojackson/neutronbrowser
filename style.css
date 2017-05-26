@@ -765,6 +765,21 @@ h2 {
 
 }
 
+.lp2Footer {
+
+    border-top: solid 2px #2da2f3;
+    background: #fff;
+    text-align: center;
+
+}
+
+.lp2FooterDisc {
+
+    width: 960px;
+    margin: 50px auto 0;
+
+}
+
 /* MOBILE ADJUSTMENTS */
 
 @media ( max-width: 750px ) {

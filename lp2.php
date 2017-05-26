@@ -186,6 +186,16 @@
 
         </div>
 
+        <div class="lp2Footer">
+
+            <div class="lp2FooterDisc">
+
+                <span>By clicking the button above and installing Incognito Browser, I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
+
+            </div>
+
+        </div>
+
     </body>
 
 </html>
