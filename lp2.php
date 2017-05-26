@@ -92,7 +92,60 @@
 
         <div class="lp2StripText">
 
-            <h2>INSTALL INCOGNITO BROWSER TO KEEP <span>YOUR SEARCHES PRIVATE</span> AND <span>YOUR BROWSING SECURE</span></h2>
+            <h2 style="margin-top: 0; margin-bottom: 0;">INSTALL INCOGNITO BROWSER TO KEEP <span>YOUR SEARCHES</span></h2>
+            <h2 style="margin-top: -26px; margin-bottom: 0;"><span>PRIVATE</span> AND <span>YOUR BROWSING SECURE</span></h2>
+
+        </div>
+
+        <div class="lp2Ticks">
+
+            <div class="lp2TickBox">
+
+                <div class="lp2TickBoxImg">
+
+                    <img src="/images/check.png">
+
+                </div>
+
+                <div class="lp2TickBoxText">Text 1</div>
+
+            </div>
+
+            <div class="lp2TickBox">
+
+                <div class="lp2TickBoxImg">
+
+                    <img src="/images/check.png">
+
+                </div>
+
+                <div class="lp2TickBoxText">Text 2</div>
+
+            </div>
+
+            <div class="lp2TickBox">
+
+                <div class="lp2TickBoxImg">
+
+                    <img src="/images/check.png">
+
+                </div>
+
+                <div class="lp2TickBoxText">Text 2</div>
+
+            </div>
+
+            <div class="lp2TickBox">
+
+                <div class="lp2TickBoxImg">
+
+                    <img src="/images/check.png">
+
+                </div>
+
+                <div class="lp2TickBoxText">Text 2</div>
+
+            </div>
 
         </div>
 

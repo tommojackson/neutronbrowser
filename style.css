@@ -694,6 +694,47 @@ h2 {
 
 }
 
+.lp2Ticks {
+
+    display: block;
+    width: 980px;
+    height: 196px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 40px 0 0 50px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+.lp2TickBox {
+
+    display: inline-block;
+    width: 400px;
+    margin-bottom: 12px;
+    line-height: 26px;
+
+}
+
+.lp2TickBoxImg {
+
+    height: 30px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.lp2TickBoxText {
+
+    display: inline-block;
+    vertical-align: top;
+    font-family: "Open sans",sans-serif;
+    color: #4f4f50;
+    padding-left: 26px;
+
+}
+
 /* MOBILE ADJUSTMENTS */
 
 @media ( max-width: 750px ) {
