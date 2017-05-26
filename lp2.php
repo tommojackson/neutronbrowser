@@ -160,14 +160,14 @@
 
             <div class="lp2BottomWindowsCompat">
 
-                <img src="/images/windowscompat.png">
+                <img style="width: 200px;" src="/images/windowscompat.png">
 
             </div>
 
             <div class="lp2BottomInfo">
 
                 <span style="display: block"><strong>Install Time:</strong> Approx. 20 Seconds</span>
-                <span style="padding: 10px 0; display: block;"><strong>Compatible OS:</strong> Apple Mac OS</span>
+                <span style="display: block;"><strong>Compatible OS:</strong> Apple Mac OS</span>
                 <span><strong>Language:</strong> English</span>
 
             </div>
