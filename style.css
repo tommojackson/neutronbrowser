@@ -735,6 +735,20 @@ h2 {
 
 }
 
+.lp2BottomDownload {
+
+    display: block;
+    margin: 0 auto;
+    background-color: #fff;
+    width: 980px;
+    color: black;
+    font-weight: 100;
+    overflow: hidden;
+
+}
+
+
+
 /* MOBILE ADJUSTMENTS */
 
 @media ( max-width: 750px ) {

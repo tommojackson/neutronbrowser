@@ -156,6 +156,36 @@
 
         </div>
 
+        <div class="lp2BottomDownload">
+
+            <div class="lp2Button">
+
+                <div class="lp2ButtonText">
+
+                    <img src="/images/download.gif">
+
+                    FREE INSTALL
+
+                </div>
+
+            </div>
+
+            <div class="lp2BottomInfo">
+
+                <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
+                <span style="padding: 10px 0;"><strong>Compatible OS:</strong> Apple Mac OS</span>
+                <span><strong>Language:</strong> English</span>
+
+            </div>
+
+            <div class="lp2BottomWindowsCompat">
+
+                <img src="/images/windowscompat.png">
+
+            </div>
+
+        </div>
+
     </body>
 
 </html>
