@@ -15,7 +15,6 @@
 
         <div class="lp2Header">
 
-            <span style="float: left">Incognito Browser</span>
             <span style="margin: 0 auto">Instant Browser Security</span>
 
         </div>
@@ -36,7 +35,7 @@
 
                     <div class="lp2SysInfoText">
 
-                        <span style="font-weight: bold">System Information:</span>
+                        <span style="font-weight: bold; font-size: 18px;">System Information:</span>
                         <span>You are currently running <?php echo "Windows 7"  ?></span>
                         <span>Incognito Browser is compatible with your operating system</span>
 

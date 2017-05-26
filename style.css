@@ -492,6 +492,20 @@ h2 {
     width: 100%;
     left: 0;
     top: 0;
+    text-align: center;
+
+}
+
+.lp2Header span {
+
+    position: fixed;
+    right: 50%;
+    transform: translateX(50%);
+    font-weight: bold;
+    line-height: 48px;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 3px;
+    font-size: 20px;
 
 }
 
@@ -507,11 +521,12 @@ h2 {
 
 .lp2TopText h2 {
 
-    text-transform: uppercase;
-    font-size: 24px;
+    font-size: 20px;
     font-family: "OpenSans-CondLight",sans-serif;
     color: #38383b;
     line-height: 53px;
+    font-weight: 100;
+    letter-spacing: 0px;
     margin-left: 22px;
 
 }
@@ -529,19 +544,66 @@ h2 {
     margin: 0 auto;
     background-color: #fff;
     width: 980px;
+    color: black;
+    font-weight: 100;
+    overflow: hidden;
+
+}
+
+.lp2ColLeft {
+
+    float: left;
+    width: 70%;
+
+}
+
+.lp2SysInfo {
+
+    margin: 20px;
+    border: lightgrey solid 1px;
+    padding: 20px;
+    overflow: hidden;
+
+}
+
+.lp2SysInfo img {
+
+    height: 70px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+
+}
+
+.lp2SysInfoText {
+
+    float: left;
+    line-height: 30px;
+
+}
+
+.lp2SysInfoText span {
+
+    display: block;
+
+}
+
+.lp2DownloadBox {
+
+    padding: 0 20px;
 
 }
 
 .lp2Button {
 
-    font-size: 32px;
+    float: left;
     font-weight: 700;
     text-align: center;
-    width: 420px;
-    height: 80px;
+    width: 60%;
+    height: 55px;
     background: linear-gradient(to bottom,#82c11f 0,#62a804 100%);
     box-shadow: 0 4px 4px rgba(125,125,125,.34);
-    padding-top: 30px;
+    padding-top: 20px;
     transition: background .2s linear;
     border-radius: 10px;
 
@@ -551,7 +613,6 @@ h2 {
 
     display: inline;
     color: #fff;
-    margin-left: -25px;
     font-size: 33px;
 
 }
@@ -560,7 +621,20 @@ h2 {
 
     width: 35px;
     margin-left: 40px;
-    margin-top: 5px;
+    float: left;
+
+}
+
+.lp2DownloadInfo {
+
+    float: left;
+    width: 40%;
+    text-align: right;
+
+}
+
+.lp2ColRight {
+
     float: left;
 
 }
