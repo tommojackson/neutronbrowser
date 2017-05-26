@@ -71,7 +71,7 @@
                     <div class="lpDlInfo">
 
                         <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
-                        <span><strong>Compatible OS:</strong> Apple Mac OS</span>
+                        <span style="padding: 10px 0;"><strong>Compatible OS:</strong> Apple Mac OS</span>
                         <span><strong>Language:</strong> English</span>
 
                     </div>

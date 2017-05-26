@@ -251,6 +251,12 @@ h2 {
 
 }
 
+.lpDownloadBox {
+
+    margin-top: 40px;
+
+}
+
 .lpCenterTitle {
 
     font-size: 35px;
@@ -271,8 +277,8 @@ h2 {
     list-style-type: decimal;
     margin: 0;
     float: right;
-    margin-right: 40px;
-    font-size: 20px;
+    margin-right: 60px;
+    font-size: 25px;
 
 }
 
@@ -345,6 +351,12 @@ h2 {
     text-align: left;
     padding: 20px;
     padding-right: 0;
+
+}
+
+.lpDlInfo span {
+
+    display: block;
 
 }
 
