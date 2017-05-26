@@ -259,6 +259,20 @@ h2 {
 
 }
 
+.col-left {
+
+    width: 50%;
+    float: left;
+
+}
+
+.col-right {
+
+    width: 50%;
+    float: left;
+
+}
+
 /* MOBILE ADJUSTMENTS */
 
 @media ( max-width: 750px ) {

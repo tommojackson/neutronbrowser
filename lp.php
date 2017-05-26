@@ -37,13 +37,25 @@
 
                 <div class="col-left">
 
-                    steps
+                    <ul class="lpSteps">
+
+                        <li>1. Click Download</li>
+                        <li>2. Start Install</li>
+                        <li>3. Begin Browsing Privately</li>
+
+                    </ul>
 
                 </div>
 
                 <div class="col-right">
 
-                    download button and info
+                    <a class="lpButton">FREE DOWNLOAD</a>
+
+                    <div class="lpDlInfo">
+
+                        <span>Install Time: Approx. 20 Seconds</span>
+
+                    </div>
 
                 </div>
 
