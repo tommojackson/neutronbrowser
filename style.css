@@ -657,14 +657,14 @@ h2 {
 
 }
 
-.5star {
+.fivestar {
 
-      background: url(images/5star.png) no-repeat;
-      width: 72px;
-      height: 11px;
-      display: inline-block;
+    background: url(images/5star.png) no-repeat;
+    width: 72px;
+    height: 11px;
+    display: inline-block;
 
-  }
+}
 
 /* MOBILE ADJUSTMENTS */
 

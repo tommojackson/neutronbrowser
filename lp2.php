@@ -73,7 +73,7 @@
 
                 <div class="lp2Review">
 
-                    <div class="5star"></div>
+                    <div class="fivestar"></div>
 
                     <div class="lp2ReviewInfo">
 
