@@ -111,7 +111,7 @@
 
             </div>
 
-            <div class="lp2TickBox">
+            <div class="lp2TickBox" style="margin-left: 88px;">
 
                 <div class="lp2TickBoxImg">
 
@@ -135,7 +135,7 @@
 
             </div>
 
-            <div class="lp2TickBox">
+            <div class="lp2TickBox" style="margin-left: 88px;">
 
                 <div class="lp2TickBoxImg">
 
@@ -146,6 +146,13 @@
                 <div class="lp2TickBoxText">Text 2</div>
 
             </div>
+
+        </div>
+
+        <div class="lp2StripText">
+
+            <h2 style="margin-top: 0; margin-bottom: 0;">WITHOUT INCOGNITO BROWSER <span>YOUR ONLINE</span></h2>
+            <h2 style="margin-top: -26px; margin-bottom: 0;"><span>ACTIVITY</span> CAN BE <span>TRACKED BY BIG COMPANIES</span></h2>
 
         </div>
 
