@@ -770,12 +770,15 @@ h2 {
     border-top: solid 2px #2da2f3;
     background: #fff;
     text-align: center;
+    color: black;
+    margin-top: 50px;
+    padding-bottom: 50px;
 
 }
 
 .lp2FooterDisc {
 
-    width: 960px;
+    width: 500px;
     margin: 50px auto 0;
 
 }
