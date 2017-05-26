@@ -613,7 +613,7 @@ h2 {
 
     display: inline;
     color: #fff;
-    font-size: 33px;
+    font-size: 25px;
 
 }
 
@@ -652,10 +652,19 @@ h2 {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     font-size: 12px;
-    font-family: "Open sans",sans-serif;
+    font-family: "Open sans", sans-serif;
     color: #7f8386;
 
 }
+
+.5star {
+
+      background: url(images/5star.png) no-repeat;
+      width: 72px;
+      height: 11px;
+      display: inline-block;
+
+  }
 
 /* MOBILE ADJUSTMENTS */
 

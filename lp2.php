@@ -73,7 +73,16 @@
 
                 <div class="lp2Review">
 
+                    <div class="5star"></div>
 
+                    <div class="lp2ReviewInfo">
+
+                        <span style="font-weight: bold; padding: 6px 0; display: block;">Sean, GB - United Kingdom</span>
+                        <span>26 May 2017</span>
+
+                    </div>
+
+                    <span class="lp2ReviewComment">Incognito Browser has been an absolute god send recently. You just cannot trust what companies are doing online, you need to protect yourself!</span>
 
                 </div>
 
