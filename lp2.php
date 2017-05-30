@@ -37,7 +37,7 @@
 
                         <span style="font-weight: bold; font-size: 18px;">System Information:</span>
                         <span>You are currently running <?php echo "Windows 7"  ?></span>
-                        <span>Incognito Browser is compatible with your operating system</span>
+                        <span>Neutron Browser is compatible with your operating system</span>
 
                     </div>
 
@@ -60,7 +60,7 @@
                     <div class="lp2DownloadInfo">
 
                         <span><strong>Download Time:</strong> Around 20 seconds</span>
-                        <span><strong>Manufacturer:</strong> Incognito Browser</span>
+                        <span><strong>Manufacturer:</strong> Neutron Browser</span>
                         <span><strong>Designed For:</strong> Windows</span>
 
                     </div>
@@ -82,7 +82,7 @@
 
                     </div>
 
-                    <span class="lp2ReviewComment">Incognito Browser has been an absolute god send recently. You just cannot trust what companies are doing online, you need to protect yourself!</span>
+                    <span class="lp2ReviewComment">Neutron Browser has been an absolute god send recently. You just cannot trust what companies are doing online, you need to protect yourself!</span>
 
                 </div>
 
@@ -92,7 +92,7 @@
 
         <div class="lp2StripText">
 
-            <h2 style="margin-top: 0; margin-bottom: 0;">INSTALL INCOGNITO BROWSER TO KEEP <span>YOUR SEARCHES</span></h2>
+            <h2 style="margin-top: 0; margin-bottom: 0;">INSTALL NEUTRON BROWSER TO KEEP <span>YOUR SEARCHES</span></h2>
             <h2 style="margin-top: -26px; margin-bottom: 0;"><span>PRIVATE</span> AND <span>YOUR BROWSING SECURE</span></h2>
 
         </div>
@@ -151,7 +151,7 @@
 
         <div class="lp2StripText">
 
-            <h2 style="margin-top: 0; margin-bottom: 0; margin-right: 22px; text-align: right;">WITHOUT INCOGNITO BROWSER <span>YOUR ONLINE ACTIVITY</span></h2>
+            <h2 style="margin-top: 0; margin-bottom: 0; margin-right: 22px; text-align: right;">WITHOUT NEUTRON BROWSER <span>YOUR ONLINE ACTIVITY</span></h2>
             <h2 style="margin-top: -26px; margin-bottom: 0; margin-right: 22px; text-align: right;">CAN BE <span>TRACKED BY BIG COMPANIES</span></h2>
 
         </div>
@@ -190,7 +190,7 @@
 
             <div class="lp2FooterDisc">
 
-                <span>By clicking the button above and installing Incognito Browser, I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
+                <span>By clicking the button above and installing Neutron Browser, I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
             </div>
 

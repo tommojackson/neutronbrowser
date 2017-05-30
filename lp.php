@@ -17,7 +17,7 @@
 
             <div style="float: left; margin-left: 10%;">
 
-                <span class="lpSiteName">Incognito Browser</span>
+                <span class="lpSiteName">Neutron Browser</span>
 
             </div>
 
@@ -64,7 +64,7 @@
 
                     <div class="lpButtonDisc">
 
-                        <span>By clicking the button above and installing Incognito Browser,
+                        <span>By clicking the button above and installing Neutron Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
@@ -131,7 +131,7 @@
 
                     <div class="lpFeatureSpan">
 
-                        <span>By clicking the button above and installing Incognito Browser,
+                        <span>By clicking the button above and installing Neutron Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
@@ -161,7 +161,7 @@
 
                     <div class="lpFeatureSpan" style="float: left;">
 
-                        <span>By clicking the button above and installing Incognito Browser,
+                        <span>By clicking the button above and installing Neutron Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
@@ -191,7 +191,7 @@
 
                     <div class="lpFeatureSpan">
 
-                        <span>By clicking the button above and installing Incognito Browser,
+                        <span>By clicking the button above and installing Neutron Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
