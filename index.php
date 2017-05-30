@@ -39,13 +39,21 @@
 
 			<div class="h1Box">
 
-				<h1>Take Control of your Online Security & Privacy</h1>
+				<h1>Take Control of your Online</h1>
+                <h1 style="margin-top: -40px;">Security & Privacy</h1>
 
 			</div>
 
             <div class="h2Box">
 
                 <h2>In-Browser Security Managment for your Peace of Mind</h2>
+
+            </div>
+
+            <div class="dlBox">
+
+                <a class="dlButton">DOWNLOAD NOW</a>
+                <img src="/images/arrow.png">
 
             </div>
 
@@ -58,13 +66,6 @@
 		</div>
 
 		<div class="middleContent">
-
-			<div class="h2Box">
-
-				<h2>The Most Secure Browser Around.</h2>
-				<span>It has never been more important to protect yourself online. Here's why [NAME] is a necessity when browsing online...</span>
-
-			</div>
 
             <div class="undeuxtrois">
 

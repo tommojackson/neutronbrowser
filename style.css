@@ -25,6 +25,7 @@ body {
 .header {
 
 	width: 80%;
+    max-width: 1200px;
 	margin: 10px auto 0;
 	height: 63px;
 
@@ -38,7 +39,7 @@ body {
 
 .nblogo {
 
-	width: 250px;
+	width: 175px;
 
 }
 
@@ -65,7 +66,10 @@ body {
 .navigation li a {
 
 	color: white;
-    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 13px;
     font-weight: bold;
     text-decoration: none;
 
@@ -75,54 +79,13 @@ body {
 
 	width: 90%;
 	text-align: center;
-	margin: 80px auto 0;
+	margin: 60px auto 0;
 
 }
 
 h1 {
 
-	font-size: 50px;
-
-}
-
-.typed-cursor{
-    opacity: 1;
-    -webkit-animation: blink 0.7s infinite;
-    -moz-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
-}
-
-@keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-
-@-webkit-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-
-@-moz-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-
-.siteBox {
-
-    text-align: center;
-
-}
-
-.siteimg {
-
-	width: 50%;
-	min-width: 600px;
-	max-width: 750px;
-	transform: translateY(100px);
-	box-shadow: grey 0px 20px 15px -8px;
+	font-size: 58px;
 
 }
 
@@ -130,42 +93,53 @@ h1 {
 
 	width: 90%;
     text-align: center;
-    margin: 220px auto 0;
+    margin: -16px auto 0;
 
 }
 
 h2 {
 
-	color: #0b192b;
-	font-size: 50px;
-	margin-bottom: 10px;
+    color: white;
+    font-size: 23px;
+    margin-bottom: 10px;
+    font-weight: 200;
 
 }
 
-.h2Box span {
+.dlBox {
 
-	color: #0b192b;
-	font-size: 18px;
-	display: block;
+    text-align: center;
+    margin-top: 80px;
 
 }
 
-@keyframes spin {
+.dlButton {
 
-    0% {transform: rotate(0deg); }
-    100% {transform: rotate(360deg); }
-    
+    padding: 20px 50px;
+    background: #5bc965;
+    border-radius: 30px;
+    font-size: 20px;
+    letter-spacing: 3px;
+
 }
 
-.loader {
+.dlBox img {
 
-    border: 4px solid transparent;
-    border-top: 4px solid #0b192b;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    animation: linear spin 1s infinite;
-    margin: 0 auto;
+    width: 16px;
+
+}
+
+.siteBox {
+
+    text-align: center;
+    margin-top: -70px;
+
+}
+
+.siteimg {
+
+    width: 50%;
+    transform: translateY(150px);
 
 }
 
