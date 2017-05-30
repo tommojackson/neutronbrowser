@@ -144,6 +144,21 @@ h2 {
 
 }
 
+.secondH1Box {
+
+    margin-top: 250px;
+    color: black;
+    text-align: center;
+
+}
+
+.secondH1 {
+
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
 .undeuxtrois {
 
     display: block;

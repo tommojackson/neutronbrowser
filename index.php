@@ -66,6 +66,12 @@
 
 		<div class="middleContent">
 
+            <div class="secondH1Box">
+
+                <span class="secondH1">Advanced Security & Privacy Features</span>
+
+            </div>
+
             <div class="undeuxtrois">
 
                 <div class="un">
