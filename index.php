@@ -28,7 +28,7 @@
 					<ul class="navigation">
 
 						<li><a href="/contact">Features</a></li>
-                        <li><a href="/contact">Testimonials</a></li>
+                        <li><a href="/testimonials">Testimonials</a></li>
 						<li><a href="/download">Download</a></li>
 
 					</ul>
@@ -52,8 +52,7 @@
 
             <div class="dlBox">
 
-                <a class="dlButton">DOWNLOAD NOW</a>
-                <img src="/images/arrow.png">
+                <a class="dlButton">DOWNLOAD NOW <img src="/images/arrow.png"></a>
 
             </div>
 
