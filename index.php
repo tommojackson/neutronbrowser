@@ -8,15 +8,6 @@
 		<link rel="shortcut icon" href="/images/favicon.ico">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-		<script src="typed.js"></script>
-		<script>
-  			document.addEventListener('DOMContentLoaded', function(){
-      			Typed.new('.h1Typed', {
-        			strings: ["Safe", "Secure", "Protected", "Defended", "Guarded", "Shielded", "Immune", "Impregnable", "Impervious", "Inviolable", "Invulnerable", "Safeguarded", "Unthreatened", "Insulated", "NeutronBrowser"],
-        			typeSpeed: 100
-      			});
-  			});
-		</script>
 
 	</head>
 
@@ -28,7 +19,7 @@
 			
 				<div class="logoBox">
 				
-					<img class="nblogo" src="https://placeholdit.imgix.net/~text?txtsize=30&txt=NB+Logo&w=250&h=60&txttrack=0" >
+					<img class="nblogo" src="/images/neutronlogo.png" >
 
 				</div>
 
@@ -36,7 +27,8 @@
 
 					<ul class="navigation">
 
-						<li><a href="/contact">Contact</a></li>
+						<li><a href="/contact">Features</a></li>
+                        <li><a href="/contact">Testimonials</a></li>
 						<li><a href="/download">Download</a></li>
 
 					</ul>
@@ -47,13 +39,19 @@
 
 			<div class="h1Box">
 
-				<h1>This Browser is <span class="h1Typed"></span></h1>
+				<h1>Take Control of your Online Security & Privacy</h1>
 
 			</div>
 
+            <div class="h2Box">
+
+                <h2>In-Browser Security Managment for your Peace of Mind</h2>
+
+            </div>
+
 			<div class="siteBox">
 
-				<img class="siteimg" src="https://placeholdit.imgix.net/~text?txtsize=56&txt=Browser+On+Laptop&w=800&h=441&txttrack=0">
+				<img class="siteimg" src="https://placeholdit.imgix.net/~text?txtsize=56&txt=Neutron+Browser&w=800&h=441&txttrack=0">
 
 			</div>
 
