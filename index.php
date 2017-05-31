@@ -77,7 +77,7 @@
 
                 <div class="un">
 
-                    <img src="/images/adblock.png">
+                    <img src="/images/adblock.png" style="height: 49px; margin-bottom: 25px;">
 
                     <span class="udtHeader">Adblock</span>
 
@@ -87,7 +87,7 @@
 
                 <div class="deux">
 
-                    <img src="/images/bug.png">
+                    <img src="/images/bug.png" style="height: 47px; margin-bottom: 27px;">
 
                     <span class="udtHeader">Antivirus</span>
 
@@ -111,7 +111,7 @@
 
                 <div class="un">
 
-                    <img src="/images/donttrack.png">
+                    <img src="/images/donttrack.png" style="height: 41px; margin-bottom: 33px;">
 
                     <span class="udtHeader">Do Not Track</span>
 
@@ -121,7 +121,7 @@
 
                 <div class="deux">
 
-                    <img src="/images/cleaner.png">
+                    <img src="/images/cleaner.png" style="height: 49px; margin-bottom: 25px;">
 
                     <span class="udtHeader">Privacy Cleaner</span>
 
@@ -162,6 +162,20 @@
             </div>
 
             <span class="testName">TOM JACKSON, LONDON</span>
+
+        </div>
+
+        <div class="getStarted">
+
+            <span class="getStartedH1">Ready to get Started?</span>
+
+            <span class="getStartedH2">Lorem ipsum dolor sit amet ed posuere consectetur est at lobort</span>
+
+            <div class="dlBox">
+
+                <a class="dlButton">DOWNLOAD NOW <img src="/images/arrow.png"></a>
+
+            </div>
 
         </div>
 
