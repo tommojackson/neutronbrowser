@@ -141,6 +141,12 @@
 
             </div>
 
+            <div class="viewFeaturesBox">
+
+                <a class="viewFeatures">VIEW ALL FEATURES <img src="/images/arrow.png"></a>
+
+            </div>
+
 		</div>
 
 	</body>

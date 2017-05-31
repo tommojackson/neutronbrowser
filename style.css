@@ -206,21 +206,44 @@ h2 {
 
 }
 
+.udtHeader {
+
+    font-size: 25px;
+    color: #4b4b4b;
+    margin-bottom: 25px;
+    display: block;
+
+}
+
 .udtDesc {
 
     display: block;
     color: #717171;
     font-size: 16px;
-    font-weight: 100;
 
 }
 
-.udtHeader {
+.viewFeaturesBox {
 
-    font-size: 25px;
-    color: #4b4b4b;
-    margin-bottom: 16px;
-    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.viewFeatures {
+
+    padding: 20px 40px;
+    background: #5bc965;
+    border-radius: 30px;
+    font-size: 17px;
+    letter-spacing: 3px;
+
+}
+
+.viewFeatures img {
+
+    width: 32px;
+    transform: rotate(-90deg) translate(-10px, 18px);
 
 }
 
