@@ -165,8 +165,6 @@
 
         </div>
 
-        <div class="getStarted"></div>
-
 	</body>
 
 </html>
