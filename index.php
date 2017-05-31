@@ -149,6 +149,22 @@
 
 		</div>
 
+        <div class="testimonial">
+
+            <span class="testHead">Testimonials</span>
+
+            <img src="/images/quote.png">
+
+            <div class="testQuote">
+
+                <span>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus.</span>
+
+            </div>
+
+            <span class="testName">TOM JACKSON, LONDON</span>
+
+        </div>
+
 	</body>
 
 </html>

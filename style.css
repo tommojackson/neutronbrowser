@@ -247,6 +247,48 @@ h2 {
 
 }
 
+.testimonial {
+
+    background: #3a80d1;
+    margin-top: 110px;
+    text-align: center;
+    padding: 50px 0;
+
+}
+
+.testHead {
+
+    font-size: 40px;
+    font-family: 'proxima_nova_ltsemibold', Georgia, sans-serif;
+    display: block;
+
+}
+
+.testimonial img {
+
+    width: 25px;
+
+}
+
+.testQuote {
+
+    width: 70%;
+    margin: 0 auto;
+    max-width: 850px;
+    font-size: 24px;
+    font-family: 'proxima_nova_ltthin', Georgia, sans-serif;
+
+}
+
+.testName {
+
+    display: block;
+    margin: 50px auto 0;
+    letter-spacing: 2px;
+    font-size: 15px;
+
+}
+
 .lpHeader {
 
     width: 100%;
