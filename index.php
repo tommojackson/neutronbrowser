@@ -35,13 +35,20 @@
 
                         }
 
+                        function scrollToTestimonials() {
+
+                            $('html, body').animate({ scrollTop: $( '#testimonial' ).offset().top }, 'slow');
+                            return false;
+
+                        }
+
                     </script>
 
 					<ul class="navigation">
 
 						<li><a onclick="scrollToFeatures()">Features</a></li>
-                        <li><a href="/testimonials">Testimonials</a></li>
-						<li><a href="/download">Download</a></li>
+                        <li><a onclick="scrollToTestimonials()">Testimonials</a></li>
+						<li><a>Download</a></li>
 
 					</ul>
 
@@ -160,7 +167,7 @@
 
 		</div>
 
-        <div class="testimonial">
+        <div id="testimonial" class="testimonial">
 
             <span class="testHead">Testimonials</span>
 
