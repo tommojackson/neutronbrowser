@@ -30,7 +30,7 @@
 
                         function scrollToFeatures() {
 
-                            $('html, body').animate({ scrollTop: $( '#features' ).offset().top }, 'slow');
+                            $('html, body').animate({ scrollTop: $( '#features' ).offset().top + 100 }, 'slow');
                             return false;
 
                         }
