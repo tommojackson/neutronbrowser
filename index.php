@@ -81,7 +81,7 @@
 
                     <span class="udtHeader">Adblock</span>
 
-                    <span>Stop annoying ads disrupting your browsing experience</span>
+                    <span class="udtDesc">Stop annoying ads disrupting your browsing experience</span>
 
                 </div>
 
@@ -91,7 +91,7 @@
 
                     <span class="udtHeader">Antivirus</span>
 
-                    <span>Stop viruses and malware from attacking your computer</span>
+                    <span class="udtDesc">Stop viruses and malware from attacking your computer</span>
 
                 </div>
 
@@ -101,7 +101,7 @@
 
                     <span class="udtHeader">Private Browsing</span>
 
-                    <span>Launch a new session and browse the internet privately</span>
+                    <span class="udtDesc">Launch a new session and browse the internet privately</span>
 
                 </div>
 
@@ -115,7 +115,7 @@
 
                     <span class="udtHeader">Do Not Track</span>
 
-                    <span>Prevent websites, social media and ad networks from tracking</span>
+                    <span class="udtDesc">Prevent websites, social media and ad networks from tracking</span>
 
                 </div>
 
@@ -125,7 +125,7 @@
 
                     <span class="udtHeader">Privacy Cleaner</span>
 
-                    <span>Clear your browsing and cookie history with one click</span>
+                    <span class="udtDesc">Clear your browsing and cookie history with one click</span>
 
                 </div>
 
@@ -135,7 +135,7 @@
 
                     <span class="udtHeader">Flash Control</span>
 
-                    <span>Optimize speed by controlling when Flash loads in your browser</span>
+                    <span class="udtDesc">Optimize speed by controlling when Flash loads in your browser</span>
 
                 </div>
 
