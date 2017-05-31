@@ -174,24 +174,24 @@ h2 {
 .un {
 
     float: left;
-    width: 22.5%;
-    margin: 0 5%;
+    width: 29.33%;
+    margin: 0 2%;
 
 }
 
 .deux {
 
     float: left;
-    width: 22.5%;
-    margin: 0 5%;
+    width: 29.33%;
+    margin: 0 2%;
 
 }
 
 .trois {
 
     float: left;
-    width: 22.5%;
-    margin: 0 5%;
+    width: 29.33%;
+    margin: 0 2%;
 
 }
 
@@ -203,21 +203,21 @@ h2 {
 
 }
 
-.udtHeader {
-
-    font-size: 25px;
-    color: #4b4b4b;
-    margin-bottom: 16px;
-    font-family: 'Open Sans', sans-serif;
-
-}
-
 .undeuxtrois div span {
 
     display: block;
     color: #717171;
     font-size: 16px;
     font-weight: 100;
+
+}
+
+.udtHeader {
+
+    font-size: 25px;
+    color: #4b4b4b;
+    margin-bottom: 16px;
+    font-family: 'Open Sans', sans-serif;
 
 }
 

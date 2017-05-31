@@ -7,6 +7,7 @@
 		<meta name="viewport" content="width=device-width">
 		<link rel="shortcut icon" href="/images/favicon.ico">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="/fonts/fonts.css" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 	</head>
