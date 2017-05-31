@@ -76,25 +76,65 @@
 
                 <div class="un">
 
-                    <img src="/images/un.png">
+                    <img src="/images/adblock.png">
 
-                    <span>Your activity online will not be tracked by big companies or search engines.</span>
+                    <span class="udtHeader">AdBlock</span>
+
+                    <span>Stop annoying ads disrupting your browsing experience</span>
 
                 </div>
 
                 <div class="deux">
 
-                    <img src="/images/deux.png">
+                    <img src="/images/bug.png">
 
-                    <span>[NAME] Browser is totally free, we believe you shouldn't have to pay for privacy.</span>
+                    <span class="udtHeader">Antivirus</span>
+
+                    <span>Stop viruses and malware from attacking your computer</span>
 
                 </div>
 
                 <div class="trois">
 
-                    <img src="/images/trois.png">
+                    <img src="/images/safe.png">
 
-                    <span>You get a perfect browsing experience - you won't even notice the difference.</span>
+                    <span class="udtHeader">Private Browsing</span>
+
+                    <span>Launch a new session and browse the internet privately</span>
+
+                </div>
+
+            </div>
+
+            <div class="undeuxtrois">
+
+                <div class="un">
+
+                    <img src="/images/donttrack.png">
+
+                    <span class="udtHeader">Do Not Track</span>
+
+                    <span>Prevent websites, social media and ad networks from tracking</span>
+
+                </div>
+
+                <div class="deux">
+
+                    <img src="/images/cleaner.png">
+
+                    <span class="udtHeader">Privacy Cleaner</span>
+
+                    <span>Clear your browsing and cookie history with one click</span>
+
+                </div>
+
+                <div class="trois">
+
+                    <img src="/images/flash.png">
+
+                    <span class="udtHeader">Flash Control</span>
+
+                    <span>Optimize speed by controlling when Flash loads in your browser</span>
 
                 </div>
 
