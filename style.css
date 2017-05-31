@@ -127,8 +127,8 @@ h2 {
 
 .dlBox img {
 
-    width: 32px;
-    transform: translate(20px, 8px);
+    width: 35px;
+    transform: translate(22px, 11px);
 
 }
 
@@ -242,8 +242,8 @@ h2 {
 
 .viewFeatures img {
 
-    width: 32px;
-    transform: rotate(-90deg) translate(-10px, 18px);
+    width: 35px;
+    transform: rotate(-90deg) translate(-12px, 24px);
 
 }
 
@@ -293,14 +293,48 @@ h2 {
 .getStarted {
 
     padding-top: 50px;
+    text-align: center;
 
 }
 
-.getStarted span {
+.getStartedH1 {
 
     color: #4b4b4b;
     font-family: 'proxima_nova_ltsemibold', Georgia, sans-serif;
     font-size: 40px;
+    display: block;
+    margin-bottom: 20px;
+
+}
+
+.getStartedH2 {
+
+    color: #717171;
+    font-size: 24px;
+
+}
+
+.footer {
+
+    padding-top: 50px;
+
+}
+
+.links1 {
+
+    float: left;
+
+}
+
+.links2 {
+
+    float: left;
+
+}
+
+.footerRight {
+
+    float: right;
 
 }
 

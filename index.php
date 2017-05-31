@@ -179,6 +179,33 @@
 
         </div>
 
+        <div class="footer">
+
+            <div class="links1">
+
+                <a href="/about">ABOUT</a>
+                <a href="/faqs">FAQS</a>
+                <a href="/support">SUPPORT</a>
+
+            </div>
+
+            <div class="links2">
+
+                <a href="/terms">TERMS</a>
+                <a href="/privacy">PRIVACY</a>
+                <a href="/eula">EULA</a>
+
+            </div>
+
+            <div class="footerRight">
+
+                <img src="/images/greyneutronlogo.png">
+                <span>© Neutron Browser. All Rights Reserved.</span>
+
+            </div>
+
+        </div>
+
 	</body>
 
 </html>
