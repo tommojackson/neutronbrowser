@@ -72,6 +72,7 @@ body {
     font-size: 13px;
     font-weight: bold;
     text-decoration: none;
+    cursor: pointer;
 
 }
 
@@ -149,7 +150,7 @@ h2 {
 .secondH1Box {
 
     margin-top: 235px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     color: #4b4b4b;
     text-align: center;
     font-family: 'proxima_nova_ltsemibold', Georgia, sans-serif;

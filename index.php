@@ -59,7 +59,7 @@
 			<div class="h1Box">
 
 				<h1>Take Control of your Online</h1>
-                <h1 style="margin-top: -40px;">Security & Privacy</h1>
+                <h1 style="margin-top: -60px;">Security & Privacy</h1>
 
 			</div>
 
