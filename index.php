@@ -26,9 +26,22 @@
 
 				<div class="navigationBox">
 
+                    <script>
+
+                        function scrollTo(id) {
+
+                            var div = "'#" + id + "'";
+
+                            $('html, body').animate({ scrollTop: $(div).offset().top }, 'slow');
+                            return false;
+
+                        }
+
+                    </script>
+
 					<ul class="navigation">
 
-						<li><a href="/contact">Features</a></li>
+						<li><a onclick="scrollTo("features")">Features</a></li>
                         <li><a href="/testimonials">Testimonials</a></li>
 						<li><a href="/download">Download</a></li>
 
@@ -65,7 +78,7 @@
 
 		</div>
 
-		<div class="middleContent">
+		<div id="features" class="middleContent">
 
             <div class="secondH1Box">
 
