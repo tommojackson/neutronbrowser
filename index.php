@@ -78,7 +78,7 @@
 
                     <img src="/images/adblock.png">
 
-                    <span class="udtHeader">AdBlock</span>
+                    <span class="udtHeader">Adblock</span>
 
                     <span>Stop annoying ads disrupting your browsing experience</span>
 
