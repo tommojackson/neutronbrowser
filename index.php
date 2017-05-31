@@ -28,11 +28,9 @@
 
                     <script>
 
-                        function scrollTo(id) {
+                        function scrollToFeatures() {
 
-                            var div = "'#" + id + "'";
-
-                            $('html, body').animate({ scrollTop: $(div).offset().top }, 'slow');
+                            $('html, body').animate({ scrollTop: $( '#features' ).offset().top }, 'slow');
                             return false;
 
                         }
@@ -41,7 +39,7 @@
 
 					<ul class="navigation">
 
-						<li><a onclick="scrollTo("features")">Features</a></li>
+						<li><a onclick="scrollToFeatures()">Features</a></li>
                         <li><a href="/testimonials">Testimonials</a></li>
 						<li><a href="/download">Download</a></li>
 
