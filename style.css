@@ -294,6 +294,8 @@ h2 {
 
     padding-top: 50px;
     text-align: center;
+    border-bottom: solid lightgrey 1px;
+    padding-bottom: 120px;
 
 }
 
@@ -316,13 +318,18 @@ h2 {
 
 .footer {
 
-    padding-top: 50px;
+    padding: 100px 0;
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto;
+    max-width: 1000px;
 
 }
 
 .links1 {
 
     float: left;
+    margin-right: 100px;
 
 }
 
@@ -335,6 +342,38 @@ h2 {
 .footerRight {
 
     float: right;
+    width: 266px;
+    margin-top: -10px;
+
+}
+
+.footerRight img {
+
+    display: block;
+    width: 175px;
+    margin-left: 89px;
+    margin-bottom: 10px;
+
+}
+
+.footerRight span {
+
+    color: #9d9d9d;
+    display: block;
+    font-size: 15px;
+
+}
+
+.footer a {
+
+    display: block;
+    text-decoration: none;
+    color: #9d9d9d;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 13px;
+    margin-bottom: 18px;
 
 }
 
