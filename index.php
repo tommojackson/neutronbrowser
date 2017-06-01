@@ -77,7 +77,7 @@
 
 			<div class="siteBox">
 
-				<img class="siteimg" src="https://placeholdit.imgix.net/~text?txtsize=56&txt=Neutron+Browser&w=800&h=441&txttrack=0">
+				<img class="siteimg" src="/images/neutronbrowser.png">
 
 			</div>
 
