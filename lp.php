@@ -11,7 +11,7 @@
 
     </head>
 
-    <body style="color: #0b192b;">
+    <body style="color: #0b192b; font-family: Lato;">
 
         <div class="lpHeader">
 
