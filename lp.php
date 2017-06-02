@@ -113,6 +113,40 @@ $user_os = getOS();
 
                         </div>
 
+                        <script>
+
+                            var message = 0;
+
+                            function changeMessage() {
+
+                                if (message === 0) {
+
+                                    $( '.lpButtonText' ).text("INSTALL NOW");
+                                    message = 1;
+
+                                } else {
+
+                                    $( '.lpButtonText' ).text("FREE DOWNLOAD");
+                                    message = 0;
+
+                                }
+
+                                setTimeout(function() {
+
+                                    changeMessage();
+
+                                }, 3000);
+
+                            }
+
+                            setTimeout(function() {
+
+                                changeMessage();
+
+                            }, 3000);
+
+                        </script>
+
                     </div>
 
                     <div class="lpButtonDisc">
