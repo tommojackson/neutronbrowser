@@ -124,12 +124,12 @@ $user_os = getOS();
 
                                 if (message === 0) {
 
-                                    $( '.lpButtonText' ).text( gif + "INSTALL NOW" );
+                                    $( '.lpButtonText' ).text( "<img src='/images/download.gif'> INSTALL NOW" );
                                     message = 1;
 
                                 } else {
 
-                                    $( '.lpButtonText' ).text( gif + "FREE DOWNLOAD");
+                                    $( '.lpButtonText' ).text( "<img src='/images/download.gif'> INSTALL NOW");
                                     message = 0;
 
                                 }
