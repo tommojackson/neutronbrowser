@@ -116,17 +116,20 @@ $user_os = getOS();
                         <script>
 
                             var message = 0;
+                            var gif = $('<img />', {
+                                src: '/images/download.gif'
+                            });
 
                             function changeMessage() {
 
                                 if (message === 0) {
 
-                                    $( '.lpButtonText' ).text("INSTALL NOW");
+                                    $( '.lpButtonText' ).text( gif + "INSTALL NOW" );
                                     message = 1;
 
                                 } else {
 
-                                    $( '.lpButtonText' ).text("FREE DOWNLOAD");
+                                    $( '.lpButtonText' ).text( gif + "FREE DOWNLOAD");
                                     message = 0;
 
                                 }
