@@ -95,7 +95,7 @@ $user_os = getOS();
                         <li style="font-weight: bold; font-size: 40px; padding-top: 0;">Click Button</li>
                         <img src="/images/chalkarrow.png" style="width: 60px; position: absolute; transform: rotate(-45deg) translate(160px,65px);">
                         <li>Start Install</li>
-                        <li>Begin Browsing Privately</li>
+                        <li>Begin Browsing</li>
 
                     </ul>
 
