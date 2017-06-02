@@ -470,6 +470,12 @@ h2 {
 
 }
 
+.lpButton:hover {
+
+    background: linear-gradient(to bottom,#b4e391 0,#61c419 100%);
+
+}
+
 .lpButtonText {
 
     display: inline;
