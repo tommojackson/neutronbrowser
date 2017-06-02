@@ -59,6 +59,7 @@ $user_os = getOS();
         <meta name="viewport" content="width=device-width">
         <link rel="shortcut icon" href="/images/favicon.ico">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
     </head>
@@ -126,7 +127,7 @@ $user_os = getOS();
                 <div class="lpDlInfo">
 
                     <span><strong>Install Time:</strong> Approx. 20 Seconds</span>
-                    <span style="padding: 10px 0;"><strong>Compatible OS:</strong> <?php echo $user_os ?></span>
+                    <span style="padding: 10px 0;"><strong>Built For:</strong> <?php echo $user_os ?></span>
                     <span><strong>Language:</strong> English</span>
 
                 </div>
