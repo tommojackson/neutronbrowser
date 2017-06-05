@@ -47,6 +47,21 @@ function getOS() {
 };
 
 $user_os = getOS();
+$user_os_img = "";
+
+if (strpos($user_os, "Windows") !== false) {
+
+    $user_os_img = "/images/windows.png";
+
+} else if (strpos($user_os, "roid") !== false) {
+
+    $user_os_img = "/images/android.png";
+
+} else {
+
+    $user_os_img = "/images/apple.png";
+
+};
 
 ?>
 
@@ -84,12 +99,12 @@ $user_os = getOS();
 
                 <div class="lp2SysInfo">
 
-                    <img src="/images/windows.png">
+                    <img src="<?php echo $user_os_img ?>">
 
                     <div class="lp2SysInfoText">
 
                         <span style="font-weight: bold; font-size: 18px;">System Information:</span>
-                        <span>You are currently running <?php echo "Windows 7"  ?></span>
+                        <span>You are currently running <?php echo $user_os ?></span>
                         <span>Neutron Browser is compatible with your operating system</span>
 
                     </div>
