@@ -2,7 +2,7 @@
 
 	<head>
 
-		<title>NeutronBrowser - The Safest Browser Around</title>
+		<title>SaferBrowser - The Safest Browser Around</title>
 		<link rel="stylesheet" href="/style.css" type="text/css">
 		<meta name="viewport" content="width=device-width">
 		<link rel="shortcut icon" href="/images/favicon.ico">
@@ -211,7 +211,7 @@
 
             <div class="footerRight">
 
-                <img src="/images/greyneutronlogo.png">
+                <img src="/images/greysaferlogo.png">
                 <span>© Safer Browser. All Rights Reserved.</span>
 
             </div>
