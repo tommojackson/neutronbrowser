@@ -20,7 +20,7 @@
 			
 				<div class="logoBox">
 				
-					<img class="nblogo" src="/images/neutronlogo.png" >
+					<img class="nblogo" src="/images/saferlogo.png" >
 
 				</div>
 
@@ -65,7 +65,7 @@
 
             <div class="h2Box">
 
-                <h2>In-Browser Security Managment for your Peace of Mind</h2>
+                <h2>In-Browser Security Management for your Peace of Mind</h2>
 
             </div>
 
@@ -212,7 +212,7 @@
             <div class="footerRight">
 
                 <img src="/images/greyneutronlogo.png">
-                <span>© Neutron Browser. All Rights Reserved.</span>
+                <span>© Safer Browser. All Rights Reserved.</span>
 
             </div>
 
