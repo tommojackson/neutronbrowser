@@ -209,9 +209,9 @@
 
                 function change() {
 
-                    $( "quote" + current.toString() ).fadeOut(500);
+                    $( "#quote" + current.toString() ).fadeOut(500);
                     if ( current === 3 ) { current = 1; } else { current = current + 1; };
-                    $( "quote" + current.toString() ).delay(500).fadeIn(500);
+                    $( "#quote" + current.toString() ).delay(500).fadeIn(500);
 
                 };
 
