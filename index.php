@@ -134,7 +134,7 @@ if (strpos($user_os, "Windows") !== false) {
 
             <div class="dlBox">
 
-                <a class="dlButton" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">DOWNLOAD NOW <img src="/images/arrow.png"></a>
+                <a class="dlButton" href="<?php echo $dlink ?>" download="SaferBrowser">DOWNLOAD NOW <img src="/images/arrow.png"></a>
 
             </div>
 
