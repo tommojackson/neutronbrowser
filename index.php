@@ -225,7 +225,7 @@
 
             <span class="getStartedH1">Ready to get Started?</span>
 
-            <span class="getStartedH2">Lorem ipsum dolor sit amet ed posuere consectetur est at lobort</span>
+            <span class="getStartedH2">Download our free browser, designed to keep you protected online with simplicity in mind.</span>
 
             <div class="dlBox">
 
