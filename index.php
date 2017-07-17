@@ -215,7 +215,7 @@
 
                 };
 
-                setInterval(change(), 10000);
+                setInterval(function() { change() }, 10000);
 
             </script>
 
