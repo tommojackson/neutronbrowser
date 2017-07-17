@@ -167,13 +167,57 @@
 
             <img src="/images/quote.png">
 
-            <div class="testQuote">
+            <div id="quote1">
 
-                <span>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus.</span>
+                <div class="testQuote">
+
+                    <span>For a long time I'd been trying to figure out how adverts were following me around the web, on Facebook and on other sites I went to. Now I can browse in peace thanks to Safer Browser!</span>
+
+                </div>
+
+                <span class="testName">SEAN JONES, LONDON</span>
 
             </div>
 
-            <span class="testName">TOM JACKSON, LONDON</span>
+            <div id="quote2" style="display: none">
+
+                <div class="testQuote">
+
+                    <span>Online privacy is something that many people still don't take seriously. By using any other browser, you're allowing big companies to build up a profile of you online, which I didn't want.</span>
+
+                </div>
+
+                <span class="testName">JOHN HAINES, SOUTHAMPTON</span>
+
+            </div>
+
+            <div id="quote3" style="display: none">
+
+                <div class="testQuote">
+
+                    <span>I really love how simple Safer Browser is - it's just like using Chrome, but without the annoying ads which follow you around whilst you're browsing. I can't see myself using another browser from now on!</span>
+
+                </div>
+
+                <span class="testName">JOE BURGESS, PORTSMOUTH</span>
+
+            </div>
+
+            <script>
+
+                var current = 1;
+
+                function change() {
+
+                    $( "quote" + current.toString() ).fadeOut(500);
+                    if ( current === 3 ) { current = 1; } else { current = current + 1; };
+                    $( "quote" + current.toString() ).delay(500).fadeIn(500);
+
+                };
+
+                setInterval(change(), 10000);
+
+            </script>
 
         </div>
 
