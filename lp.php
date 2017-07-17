@@ -47,6 +47,17 @@ function getOS() {
 };
 
 $user_os = getOS();
+$dlink = "";
+
+if (strpos($user_os, "Windows") !== false) {
+
+    $dlink = "https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe";
+
+} else {
+
+    $dlink = "https://storage.googleapis.com/neutron-browser/mac/0.0.2/Safer%20Browser.dmg";
+
+};
 
 ?>
 
@@ -103,7 +114,7 @@ $user_os = getOS();
 
                 <div class="col-right">
 
-                    <a class="lpButton"  href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">
+                    <a class="lpButton"  href="<?php echo $dlink ?>" download="SaferBrowser">
 
                         <div class="lpButtonText">
 
@@ -216,7 +227,7 @@ $user_os = getOS();
 
                 <div class="lpFeatureButtonBox">
 
-                    <a class="lpFeatureButton" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">FREE DOWNLOAD</a>
+                    <a class="lpFeatureButton" href="<?php echo $dlink ?>" download="SaferBrowser">FREE DOWNLOAD</a>
 
                     <div class="lpFeatureSpan">
 
@@ -246,7 +257,7 @@ $user_os = getOS();
 
                 <div class="lpFeatureButtonBox">
 
-                    <a class="lpFeatureButton" style="float: right;" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">FREE DOWNLOAD</a>
+                    <a class="lpFeatureButton" style="float: right;" href="<?php echo $dlink ?>" download="SaferBrowser">FREE DOWNLOAD</a>
 
                     <div class="lpFeatureSpan" style="float: left;">
 
@@ -276,7 +287,7 @@ $user_os = getOS();
 
                 <div class="lpFeatureButtonBox">
 
-                    <a class="lpFeatureButton" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">FREE DOWNLOAD</a>
+                    <a class="lpFeatureButton" href="<?php echo $dlink ?>" download="SaferBrowser">FREE DOWNLOAD</a>
 
                     <div class="lpFeatureSpan">
 

@@ -63,6 +63,18 @@ if (strpos($user_os, "Windows") !== false) {
 
 };
 
+$dlink = "";
+
+if (strpos($user_os, "Windows") !== false) {
+
+    $dlink = "https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe";
+
+} else {
+
+    $dlink = "https://storage.googleapis.com/neutron-browser/mac/0.0.2/Safer%20Browser.dmg";
+
+};
+
 ?>
 
 <html>
@@ -113,7 +125,7 @@ if (strpos($user_os, "Windows") !== false) {
 
                 <div class="lp2DownloadBox">
 
-                    <a class="lp2Button" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">
+                    <a class="lp2Button" href="<?php echo $dlink ?>" download="SaferBrowser">
 
                         <div class="lp2ButtonText">
 
@@ -240,7 +252,7 @@ if (strpos($user_os, "Windows") !== false) {
 
             </div>
 
-            <a class="lp2Button" style="width: 400px; float: right; margin-top: 30px; margin-right: 50px;" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">
+            <a class="lp2Button" style="width: 400px; float: right; margin-top: 30px; margin-right: 50px;" href="<?php echo $dlink ?>" download="SaferBrowser">
 
                 <div class="lp2ButtonText">
 
