@@ -54,7 +54,7 @@ $user_os = getOS();
 
     <head>
 
-        <title>NeutronBrowser - The Safest Browser Around</title>
+        <title>Safer Browser - The Safest Browser Around</title>
         <link rel="stylesheet" href="/style.css" type="text/css">
         <meta name="viewport" content="width=device-width">
         <link rel="shortcut icon" href="/images/favicon.ico">
@@ -70,7 +70,7 @@ $user_os = getOS();
 
             <div style="float: left; margin-left: 10%;">
 
-                <span class="lpSiteName">Neutron Browser</span>
+                <span class="lpSiteName">Safer Browser</span>
 
             </div>
 
@@ -153,7 +153,7 @@ $user_os = getOS();
 
                     <div class="lpButtonDisc">
 
-                        <span>By clicking the button above and installing Neutron Browser,
+                        <span>By clicking the button above and installing Safer Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
@@ -220,7 +220,7 @@ $user_os = getOS();
 
                     <div class="lpFeatureSpan">
 
-                        <span>By clicking the button above and installing Neutron Browser,
+                        <span>By clicking the button above and installing Safer Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
@@ -250,7 +250,7 @@ $user_os = getOS();
 
                     <div class="lpFeatureSpan" style="float: left;">
 
-                        <span>By clicking the button above and installing Neutron Browser,
+                        <span>By clicking the button above and installing Safer Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
@@ -280,7 +280,7 @@ $user_os = getOS();
 
                     <div class="lpFeatureSpan">
 
-                        <span>By clicking the button above and installing Neutron Browser,
+                        <span>By clicking the button above and installing Safer Browser,
                             I accept and agree to abide by the <a href="/eula">EULA</a> and <a href="/privacy">Privacy Policy.</a></span>
 
                     </div>
