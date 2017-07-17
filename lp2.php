@@ -113,7 +113,7 @@ if (strpos($user_os, "Windows") !== false) {
 
                 <div class="lp2DownloadBox">
 
-                    <div class="lp2Button">
+                    <a class="lp2Button" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">
 
                         <div class="lp2ButtonText">
 
@@ -123,7 +123,7 @@ if (strpos($user_os, "Windows") !== false) {
 
                         </div>
 
-                    </div>
+                    </a>
 
                     <div class="lp2DownloadInfo">
 
@@ -240,7 +240,7 @@ if (strpos($user_os, "Windows") !== false) {
 
             </div>
 
-            <div class="lp2Button" style="width: 400px; float: right; margin-top: 30px; margin-right: 50px;">
+            <a class="lp2Button" style="width: 400px; float: right; margin-top: 30px; margin-right: 50px;" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">
 
                 <div class="lp2ButtonText">
 
@@ -250,7 +250,7 @@ if (strpos($user_os, "Windows") !== false) {
 
                 </div>
 
-            </div>
+            </a>
 
         </div>
 

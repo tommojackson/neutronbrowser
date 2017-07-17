@@ -48,7 +48,7 @@
 
 						<li><a onclick="scrollToFeatures()">Features</a></li>
                         <li><a onclick="scrollToTestimonials()">Testimonials</a></li>
-						<li><a>Download</a></li>
+						<li><a  href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">Download</a></li>
 
 					</ul>
 
@@ -229,7 +229,7 @@
 
             <div class="dlBox">
 
-                <a class="dlButton">DOWNLOAD NOW <img src="/images/arrow.png"></a>
+                <a class="dlButton" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">DOWNLOAD NOW<img src="/images/arrow.png"></a>
 
             </div>
 

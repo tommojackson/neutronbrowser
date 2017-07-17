@@ -103,7 +103,7 @@ $user_os = getOS();
 
                 <div class="col-right">
 
-                    <div class="lpButton">
+                    <a class="lpButton"  href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">
 
                         <div class="lpButtonText">
 
@@ -149,7 +149,7 @@ $user_os = getOS();
 
                         </script>
 
-                    </div>
+                    </a>
 
                     <div class="lpButtonDisc">
 
@@ -216,7 +216,7 @@ $user_os = getOS();
 
                 <div class="lpFeatureButtonBox">
 
-                    <div class="lpFeatureButton">FREE DOWNLOAD</div>
+                    <a class="lpFeatureButton" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">FREE DOWNLOAD</a>
 
                     <div class="lpFeatureSpan">
 
@@ -246,7 +246,7 @@ $user_os = getOS();
 
                 <div class="lpFeatureButtonBox">
 
-                    <div class="lpFeatureButton" style="float: right;">FREE DOWNLOAD</div>
+                    <a class="lpFeatureButton" style="float: right;" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">FREE DOWNLOAD</a>
 
                     <div class="lpFeatureSpan" style="float: left;">
 
@@ -276,7 +276,7 @@ $user_os = getOS();
 
                 <div class="lpFeatureButtonBox">
 
-                    <div class="lpFeatureButton">FREE DOWNLOAD</div>
+                    <a class="lpFeatureButton" href="https://storage.googleapis.com/neutron-browser/windows/0.0.2/saferbrowser_installer.exe" download="SaferBrowser">FREE DOWNLOAD</a>
 
                     <div class="lpFeatureSpan">
 
